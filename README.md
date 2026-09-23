@@ -140,7 +140,7 @@ O aplicativo verifica a resposta da API para determinar se o usuário foi autent
 ## 📂 Estrutura do Projeto
 
 ``` text
-light_notes/
+flutter_bloco_anotacoes/
 │
 ├── android/
 ├── ios/
@@ -152,11 +152,11 @@ light_notes/
 │       ├── home.dart
 │       └── nova_anotacao.dart
 │
-├── screenshots/
-│   ├── tela1.png
-│   ├── tela2.png
-│   ├── tela2.1.png
-│   └── tela3.png
+├── prints/
+│   ├── Tela1.png
+│   ├── Tela2.png
+│   ├── Tela2.1.png
+│   └── Tela3.png
 │
 ├── pubspec.yaml
 ├── pubspec.lock
