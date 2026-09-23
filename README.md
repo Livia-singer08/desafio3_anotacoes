@@ -96,7 +96,7 @@ O aplicativo verifica a resposta da API para determinar se o usuário foi autent
 
 ## 🔄 Fluxo da Aplicação
 
-text
+``` text
 ┌──────────────┐
 │    Splash    │
 └──────┬───────┘
@@ -132,7 +132,7 @@ text
 ┌─────────────────┐
 │ Nova Anotação + │
 └─────────────────┘
-
+```
 
 ---
 
@@ -193,8 +193,8 @@ Password: emilyspass
 
 ### 1. Clonar o repositório
 
-bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+Abra o terminal e coloque:
+git clone https://github.com/Livia-singer08/desafio3_anotacoes.git
 
 
 ### 2. Entrar na pasta
@@ -213,7 +213,6 @@ flutter pub get
 
 bash
 flutter run
-
 
 ---
 
