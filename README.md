@@ -93,6 +93,7 @@ json
 
 O aplicativo verifica a resposta da API para determinar se o usuário foi autenticado.
 
+---
 
 ## 🔄 Fluxo da Aplicação
 
