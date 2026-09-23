@@ -138,7 +138,7 @@ O aplicativo verifica a resposta da API para determinar se o usuário foi autent
 
 ## 📂 Estrutura do Projeto
 
-text
+``` text
 light_notes/
 │
 ├── android/
@@ -160,7 +160,7 @@ light_notes/
 ├── pubspec.yaml
 ├── pubspec.lock
 └── README.md
-
+```
 ---
 
 ## 🔐 Autenticação
