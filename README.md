@@ -184,10 +184,10 @@ A DummyJSON disponibiliza usuários para testes.
 
 Exemplo:
 
-text
+``` text
 Username: emilys
 Password: emilyspass
-
+```
 ---
 
 ## ▶️ Como Executar o Projeto
